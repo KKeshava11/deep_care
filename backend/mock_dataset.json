@@ -1,0 +1,5459 @@
+{
+    "totalHospitals": 24,
+    "citiesCovered": [
+        "Kurnool",
+        "Anantapur",
+        "Chittoor",
+        "Kadapa"
+    ],
+    "hospitals": [
+        {
+            "name": "Kurnool General Hospital 1",
+            "city": "Kurnool",
+            "adminLogin": {
+                "username": "admin_kurnool1",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 15.838797520397852,
+                "lng": 78.04489227600371
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 21,
+                    "available": 5
+                },
+                "generalBeds": {
+                    "total": 116,
+                    "available": 49
+                },
+                "oxygenAvailability": 63,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 3,
+                        "available": 1
+                    },
+                    "neurologist": {
+                        "total": 3,
+                        "available": 0
+                    },
+                    "orthopedist": {
+                        "total": 1,
+                        "available": 0
+                    },
+                    "pediatrician": {
+                        "total": 2,
+                        "available": 0
+                    },
+                    "generalSurgeon": {
+                        "total": 1,
+                        "available": 1
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 115,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 63,
+                    "oxygenAvailability": 55
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 42,
+                    "oxygenAvailability": 90
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 43,
+                    "oxygenAvailability": 47
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 78,
+                    "oxygenAvailability": 94
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 65,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 7,
+                    "oxygenAvailability": 68
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 86,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 103,
+                    "oxygenAvailability": 87
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 78,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 30,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 107,
+                    "oxygenAvailability": 78
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 66,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 44,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 73,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 85,
+                    "oxygenAvailability": 49
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 9,
+                    "oxygenAvailability": 62
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 115,
+                    "oxygenAvailability": 90
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 91,
+                    "oxygenAvailability": 45
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 23,
+                    "oxygenAvailability": 72
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 114,
+                    "oxygenAvailability": 70
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 66,
+                    "oxygenAvailability": 50
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 86,
+                    "oxygenAvailability": 91
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 75,
+                    "oxygenAvailability": 50
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 21,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 17,
+                    "oxygenAvailability": 90
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 28,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 43,
+                    "oxygenAvailability": 68
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 89,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 104,
+                    "oxygenAvailability": 48
+                }
+            ]
+        },
+        {
+            "name": "Kurnool General Hospital 2",
+            "city": "Kurnool",
+            "adminLogin": {
+                "username": "admin_kurnool2",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 15.831379070733467,
+                "lng": 78.0423444121895
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 29,
+                    "available": 5
+                },
+                "generalBeds": {
+                    "total": 69,
+                    "available": 34
+                },
+                "oxygenAvailability": 84,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 2,
+                        "available": 0
+                    },
+                    "neurologist": {
+                        "total": 1,
+                        "available": 1
+                    },
+                    "orthopedist": {
+                        "total": 3,
+                        "available": 1
+                    },
+                    "pediatrician": {
+                        "total": 2,
+                        "available": 1
+                    },
+                    "generalSurgeon": {
+                        "total": 3,
+                        "available": 3
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 15,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 43,
+                    "oxygenAvailability": 81
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 47,
+                    "oxygenAvailability": 98
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 20,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 25,
+                    "generalBedsAvailable": 34,
+                    "oxygenAvailability": 80
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 17,
+                    "oxygenAvailability": 75
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 42,
+                    "oxygenAvailability": 48
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 40,
+                    "oxygenAvailability": 48
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 56,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 31,
+                    "oxygenAvailability": 88
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 23,
+                    "generalBedsAvailable": 58,
+                    "oxygenAvailability": 83
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 24,
+                    "generalBedsAvailable": 69,
+                    "oxygenAvailability": 58
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 29,
+                    "generalBedsAvailable": 44,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 45,
+                    "oxygenAvailability": 94
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 25,
+                    "generalBedsAvailable": 45,
+                    "oxygenAvailability": 78
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 36,
+                    "oxygenAvailability": 62
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 34,
+                    "oxygenAvailability": 60
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 2,
+                    "oxygenAvailability": 80
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 52,
+                    "oxygenAvailability": 45
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 28,
+                    "oxygenAvailability": 99
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 39,
+                    "oxygenAvailability": 85
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 48,
+                    "oxygenAvailability": 54
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 42,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 10,
+                    "oxygenAvailability": 88
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 25,
+                    "generalBedsAvailable": 57,
+                    "oxygenAvailability": 50
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 19,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 4,
+                    "oxygenAvailability": 92
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 28,
+                    "oxygenAvailability": 89
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 6,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 31,
+                    "oxygenAvailability": 65
+                }
+            ]
+        },
+        {
+            "name": "Kurnool General Hospital 3",
+            "city": "Kurnool",
+            "adminLogin": {
+                "username": "admin_kurnool3",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 15.83061303967804,
+                "lng": 78.0247147182416
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 23,
+                    "available": 9
+                },
+                "generalBeds": {
+                    "total": 86,
+                    "available": 59
+                },
+                "oxygenAvailability": 82,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 3,
+                        "available": 3
+                    },
+                    "neurologist": {
+                        "total": 3,
+                        "available": 1
+                    },
+                    "orthopedist": {
+                        "total": 4,
+                        "available": 4
+                    },
+                    "pediatrician": {
+                        "total": 3,
+                        "available": 3
+                    },
+                    "generalSurgeon": {
+                        "total": 1,
+                        "available": 1
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 68,
+                    "oxygenAvailability": 49
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 72,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 39,
+                    "oxygenAvailability": 97
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 23,
+                    "generalBedsAvailable": 59,
+                    "oxygenAvailability": 96
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 48,
+                    "oxygenAvailability": 58
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 13,
+                    "oxygenAvailability": 98
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 10,
+                    "oxygenAvailability": 63
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 40,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 31,
+                    "oxygenAvailability": 90
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 42,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 58,
+                    "oxygenAvailability": 60
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 62,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 7,
+                    "oxygenAvailability": 98
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 41,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 60,
+                    "oxygenAvailability": 60
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 9,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 60,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 64,
+                    "oxygenAvailability": 84
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 82,
+                    "oxygenAvailability": 60
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 78,
+                    "oxygenAvailability": 92
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 5,
+                    "oxygenAvailability": 85
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 34,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 33,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 52,
+                    "oxygenAvailability": 62
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 71,
+                    "oxygenAvailability": 82
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 54,
+                    "oxygenAvailability": 41
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 46,
+                    "oxygenAvailability": 70
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 38,
+                    "oxygenAvailability": 78
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 65,
+                    "oxygenAvailability": 55
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 76,
+                    "oxygenAvailability": 59
+                }
+            ]
+        },
+        {
+            "name": "Kurnool General Hospital 4",
+            "city": "Kurnool",
+            "adminLogin": {
+                "username": "admin_kurnool4",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 15.82892710761574,
+                "lng": 78.02508838098802
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 15,
+                    "available": 11
+                },
+                "generalBeds": {
+                    "total": 113,
+                    "available": 26
+                },
+                "oxygenAvailability": 55,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 2,
+                        "available": 1
+                    },
+                    "neurologist": {
+                        "total": 2,
+                        "available": 2
+                    },
+                    "orthopedist": {
+                        "total": 2,
+                        "available": 1
+                    },
+                    "pediatrician": {
+                        "total": 1,
+                        "available": 1
+                    },
+                    "generalSurgeon": {
+                        "total": 3,
+                        "available": 2
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 88,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 75,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 58,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 56,
+                    "oxygenAvailability": 94
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 36,
+                    "oxygenAvailability": 41
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 82,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 109,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 39,
+                    "oxygenAvailability": 84
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 74,
+                    "oxygenAvailability": 49
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 94,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 1,
+                    "oxygenAvailability": 46
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 95,
+                    "oxygenAvailability": 47
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 105,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 44,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 7,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 88,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 16,
+                    "oxygenAvailability": 69
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 81,
+                    "oxygenAvailability": 81
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 24,
+                    "oxygenAvailability": 41
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 100,
+                    "oxygenAvailability": 100
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 32,
+                    "oxygenAvailability": 41
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 54,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 91,
+                    "oxygenAvailability": 62
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 83,
+                    "oxygenAvailability": 65
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 21,
+                    "oxygenAvailability": 79
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 97,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 53,
+                    "oxygenAvailability": 79
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 63,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 6,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 57,
+                    "oxygenAvailability": 88
+                }
+            ]
+        },
+        {
+            "name": "Kurnool General Hospital 5",
+            "city": "Kurnool",
+            "adminLogin": {
+                "username": "admin_kurnool5",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 15.808828623466331,
+                "lng": 78.02276575304315
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 13,
+                    "available": 2
+                },
+                "generalBeds": {
+                    "total": 128,
+                    "available": 78
+                },
+                "oxygenAvailability": 90,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 3,
+                        "available": 1
+                    },
+                    "neurologist": {
+                        "total": 3,
+                        "available": 0
+                    },
+                    "orthopedist": {
+                        "total": 2,
+                        "available": 0
+                    },
+                    "pediatrician": {
+                        "total": 3,
+                        "available": 1
+                    },
+                    "generalSurgeon": {
+                        "total": 2,
+                        "available": 2
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 75,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 43,
+                    "oxygenAvailability": 87
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 89,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 78,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 121,
+                    "oxygenAvailability": 96
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 86,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 34,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 94,
+                    "oxygenAvailability": 85
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 7,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 24,
+                    "oxygenAvailability": 96
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 109,
+                    "oxygenAvailability": 98
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 5,
+                    "oxygenAvailability": 53
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 70,
+                    "oxygenAvailability": 79
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 35,
+                    "oxygenAvailability": 56
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 40,
+                    "oxygenAvailability": 79
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 118,
+                    "oxygenAvailability": 60
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 68,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 9,
+                    "oxygenAvailability": 53
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 113,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 73,
+                    "oxygenAvailability": 75
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 12,
+                    "oxygenAvailability": 96
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 27,
+                    "oxygenAvailability": 83
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 55,
+                    "oxygenAvailability": 49
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 102,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 1,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 92,
+                    "oxygenAvailability": 46
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 90,
+                    "oxygenAvailability": 49
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 19,
+                    "oxygenAvailability": 70
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 22,
+                    "oxygenAvailability": 100
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 23,
+                    "oxygenAvailability": 83
+                }
+            ]
+        },
+        {
+            "name": "Kurnool General Hospital 6",
+            "city": "Kurnool",
+            "adminLogin": {
+                "username": "admin_kurnool6",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 15.836446220991165,
+                "lng": 78.0186116666648
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 18,
+                    "available": 4
+                },
+                "generalBeds": {
+                    "total": 50,
+                    "available": 16
+                },
+                "oxygenAvailability": 77,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 1,
+                        "available": 0
+                    },
+                    "neurologist": {
+                        "total": 3,
+                        "available": 3
+                    },
+                    "orthopedist": {
+                        "total": 2,
+                        "available": 0
+                    },
+                    "pediatrician": {
+                        "total": 2,
+                        "available": 1
+                    },
+                    "generalSurgeon": {
+                        "total": 2,
+                        "available": 1
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 3,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 24,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 11,
+                    "oxygenAvailability": 93
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 43,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 1,
+                    "oxygenAvailability": 57
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 41,
+                    "oxygenAvailability": 55
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 16,
+                    "oxygenAvailability": 69
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 46,
+                    "oxygenAvailability": 82
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 37,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 13,
+                    "oxygenAvailability": 55
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 18,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 15,
+                    "oxygenAvailability": 64
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 13,
+                    "oxygenAvailability": 57
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 16,
+                    "oxygenAvailability": 93
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 32,
+                    "oxygenAvailability": 96
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 47,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 23,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 19,
+                    "oxygenAvailability": 61
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 17,
+                    "oxygenAvailability": 91
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 37,
+                    "oxygenAvailability": 94
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 29,
+                    "oxygenAvailability": 42
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 22,
+                    "oxygenAvailability": 82
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 1,
+                    "oxygenAvailability": 58
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 23,
+                    "oxygenAvailability": 42
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 37,
+                    "oxygenAvailability": 60
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 5,
+                    "oxygenAvailability": 91
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 19,
+                    "oxygenAvailability": 91
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 39,
+                    "oxygenAvailability": 42
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 23,
+                    "oxygenAvailability": 98
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 6,
+                    "oxygenAvailability": 94
+                }
+            ]
+        },
+        {
+            "name": "Anantapur General Hospital 1",
+            "city": "Anantapur",
+            "adminLogin": {
+                "username": "admin_anantapur1",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 14.681058692023251,
+                "lng": 77.62210425309564
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 17,
+                    "available": 17
+                },
+                "generalBeds": {
+                    "total": 71,
+                    "available": 44
+                },
+                "oxygenAvailability": 51,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 1,
+                        "available": 1
+                    },
+                    "neurologist": {
+                        "total": 1,
+                        "available": 1
+                    },
+                    "orthopedist": {
+                        "total": 3,
+                        "available": 1
+                    },
+                    "pediatrician": {
+                        "total": 2,
+                        "available": 0
+                    },
+                    "generalSurgeon": {
+                        "total": 4,
+                        "available": 2
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 51,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 22,
+                    "oxygenAvailability": 56
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 7,
+                    "oxygenAvailability": 99
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 62,
+                    "oxygenAvailability": 80
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 14,
+                    "oxygenAvailability": 68
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 66,
+                    "oxygenAvailability": 83
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 33,
+                    "oxygenAvailability": 59
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 70,
+                    "oxygenAvailability": 89
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 62,
+                    "oxygenAvailability": 72
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 66,
+                    "oxygenAvailability": 58
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 26,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 7,
+                    "oxygenAvailability": 75
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 42,
+                    "oxygenAvailability": 58
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 46,
+                    "oxygenAvailability": 89
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 14,
+                    "oxygenAvailability": 93
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 55,
+                    "oxygenAvailability": 83
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 58,
+                    "oxygenAvailability": 80
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 21,
+                    "oxygenAvailability": 53
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 17,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 3,
+                    "oxygenAvailability": 100
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 49,
+                    "oxygenAvailability": 85
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 25,
+                    "oxygenAvailability": 88
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 64,
+                    "oxygenAvailability": 80
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 5,
+                    "oxygenAvailability": 66
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 36,
+                    "oxygenAvailability": 49
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 20,
+                    "oxygenAvailability": 91
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 38,
+                    "oxygenAvailability": 45
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 29,
+                    "oxygenAvailability": 48
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 19,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 23,
+                    "oxygenAvailability": 73
+                }
+            ]
+        },
+        {
+            "name": "Anantapur General Hospital 2",
+            "city": "Anantapur",
+            "adminLogin": {
+                "username": "admin_anantapur2",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 14.690419968931742,
+                "lng": 77.60709351584487
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 28,
+                    "available": 5
+                },
+                "generalBeds": {
+                    "total": 76,
+                    "available": 50
+                },
+                "oxygenAvailability": 57,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 1,
+                        "available": 0
+                    },
+                    "neurologist": {
+                        "total": 1,
+                        "available": 0
+                    },
+                    "orthopedist": {
+                        "total": 1,
+                        "available": 0
+                    },
+                    "pediatrician": {
+                        "total": 2,
+                        "available": 0
+                    },
+                    "generalSurgeon": {
+                        "total": 1,
+                        "available": 0
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 65,
+                    "oxygenAvailability": 69
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 16,
+                    "oxygenAvailability": 96
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 34,
+                    "oxygenAvailability": 56
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 74,
+                    "oxygenAvailability": 45
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 25,
+                    "oxygenAvailability": 91
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 14,
+                    "oxygenAvailability": 82
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 19,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 27,
+                    "generalBedsAvailable": 23,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 69,
+                    "oxygenAvailability": 94
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 43,
+                    "oxygenAvailability": 41
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 61,
+                    "oxygenAvailability": 99
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 26,
+                    "generalBedsAvailable": 58,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 28,
+                    "generalBedsAvailable": 21,
+                    "oxygenAvailability": 53
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 54,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 35,
+                    "oxygenAvailability": 45
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 15,
+                    "oxygenAvailability": 53
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 27,
+                    "generalBedsAvailable": 6,
+                    "oxygenAvailability": 64
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 16,
+                    "oxygenAvailability": 93
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 53,
+                    "oxygenAvailability": 61
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 76,
+                    "oxygenAvailability": 67
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 32,
+                    "oxygenAvailability": 56
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 50,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 16,
+                    "oxygenAvailability": 100
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 41,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 26,
+                    "generalBedsAvailable": 41,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 29,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 5,
+                    "oxygenAvailability": 48
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 33,
+                    "oxygenAvailability": 81
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 74,
+                    "oxygenAvailability": 63
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 28,
+                    "generalBedsAvailable": 56,
+                    "oxygenAvailability": 78
+                }
+            ]
+        },
+        {
+            "name": "Anantapur General Hospital 3",
+            "city": "Anantapur",
+            "adminLogin": {
+                "username": "admin_anantapur3",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 14.690219959951438,
+                "lng": 77.59185426027193
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 29,
+                    "available": 10
+                },
+                "generalBeds": {
+                    "total": 52,
+                    "available": 22
+                },
+                "oxygenAvailability": 64,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 1,
+                        "available": 1
+                    },
+                    "neurologist": {
+                        "total": 4,
+                        "available": 1
+                    },
+                    "orthopedist": {
+                        "total": 2,
+                        "available": 1
+                    },
+                    "pediatrician": {
+                        "total": 1,
+                        "available": 1
+                    },
+                    "generalSurgeon": {
+                        "total": 3,
+                        "available": 2
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 27,
+                    "generalBedsAvailable": 31,
+                    "oxygenAvailability": 97
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 27,
+                    "oxygenAvailability": 41
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 43,
+                    "oxygenAvailability": 62
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 43,
+                    "oxygenAvailability": 87
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 2,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 50,
+                    "oxygenAvailability": 60
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 27,
+                    "generalBedsAvailable": 6,
+                    "oxygenAvailability": 99
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 7,
+                    "oxygenAvailability": 70
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 42,
+                    "oxygenAvailability": 48
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 22,
+                    "oxygenAvailability": 46
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 50,
+                    "oxygenAvailability": 89
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 11,
+                    "oxygenAvailability": 67
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 27,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 44,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 22,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 28,
+                    "oxygenAvailability": 76
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 40,
+                    "oxygenAvailability": 64
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 18,
+                    "oxygenAvailability": 78
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 10,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 13,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 28,
+                    "oxygenAvailability": 91
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 44,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 40,
+                    "oxygenAvailability": 97
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 9,
+                    "oxygenAvailability": 80
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 29,
+                    "generalBedsAvailable": 49,
+                    "oxygenAvailability": 82
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 42,
+                    "oxygenAvailability": 48
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 52,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 16,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 52,
+                    "oxygenAvailability": 63
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 21,
+                    "oxygenAvailability": 59
+                }
+            ]
+        },
+        {
+            "name": "Anantapur General Hospital 4",
+            "city": "Anantapur",
+            "adminLogin": {
+                "username": "admin_anantapur4",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 14.683002427146585,
+                "lng": 77.58754856700959
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 30,
+                    "available": 3
+                },
+                "generalBeds": {
+                    "total": 131,
+                    "available": 114
+                },
+                "oxygenAvailability": 65,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 2,
+                        "available": 2
+                    },
+                    "neurologist": {
+                        "total": 1,
+                        "available": 1
+                    },
+                    "orthopedist": {
+                        "total": 4,
+                        "available": 0
+                    },
+                    "pediatrician": {
+                        "total": 4,
+                        "available": 1
+                    },
+                    "generalSurgeon": {
+                        "total": 2,
+                        "available": 1
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 101,
+                    "oxygenAvailability": 63
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 123,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 25,
+                    "generalBedsAvailable": 70,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 63,
+                    "oxygenAvailability": 91
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 103,
+                    "oxygenAvailability": 75
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 0,
+                    "oxygenAvailability": 61
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 115,
+                    "oxygenAvailability": 94
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 99,
+                    "oxygenAvailability": 42
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 91,
+                    "oxygenAvailability": 99
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 49,
+                    "oxygenAvailability": 63
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 29,
+                    "oxygenAvailability": 42
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 112,
+                    "oxygenAvailability": 70
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 128,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 52,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 14,
+                    "oxygenAvailability": 92
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 61,
+                    "oxygenAvailability": 78
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 130,
+                    "oxygenAvailability": 85
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 99,
+                    "oxygenAvailability": 64
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 3,
+                    "oxygenAvailability": 79
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 56,
+                    "oxygenAvailability": 64
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 72,
+                    "oxygenAvailability": 69
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 51,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 23,
+                    "oxygenAvailability": 54
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 18,
+                    "oxygenAvailability": 61
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 81,
+                    "oxygenAvailability": 91
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 27,
+                    "generalBedsAvailable": 88,
+                    "oxygenAvailability": 48
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 120,
+                    "oxygenAvailability": 89
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 25,
+                    "oxygenAvailability": 65
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 30,
+                    "generalBedsAvailable": 108,
+                    "oxygenAvailability": 69
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 94,
+                    "oxygenAvailability": 85
+                }
+            ]
+        },
+        {
+            "name": "Anantapur General Hospital 5",
+            "city": "Anantapur",
+            "adminLogin": {
+                "username": "admin_anantapur5",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 14.692629095115688,
+                "lng": 77.59868953091753
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 29,
+                    "available": 15
+                },
+                "generalBeds": {
+                    "total": 95,
+                    "available": 28
+                },
+                "oxygenAvailability": 82,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 1,
+                        "available": 1
+                    },
+                    "neurologist": {
+                        "total": 1,
+                        "available": 0
+                    },
+                    "orthopedist": {
+                        "total": 4,
+                        "available": 4
+                    },
+                    "pediatrician": {
+                        "total": 3,
+                        "available": 1
+                    },
+                    "generalSurgeon": {
+                        "total": 2,
+                        "available": 2
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 95,
+                    "oxygenAvailability": 60
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 71,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 35,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 85,
+                    "oxygenAvailability": 56
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 81,
+                    "oxygenAvailability": 92
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 42,
+                    "oxygenAvailability": 97
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 27,
+                    "generalBedsAvailable": 93,
+                    "oxygenAvailability": 83
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 1,
+                    "oxygenAvailability": 66
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 69,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 62,
+                    "oxygenAvailability": 46
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 27,
+                    "generalBedsAvailable": 6,
+                    "oxygenAvailability": 68
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 95,
+                    "oxygenAvailability": 69
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 28,
+                    "generalBedsAvailable": 61,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 27,
+                    "generalBedsAvailable": 20,
+                    "oxygenAvailability": 92
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 3,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 34,
+                    "oxygenAvailability": 83
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 36,
+                    "oxygenAvailability": 72
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 15,
+                    "oxygenAvailability": 53
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 2,
+                    "oxygenAvailability": 70
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 65,
+                    "oxygenAvailability": 55
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 24,
+                    "generalBedsAvailable": 39,
+                    "oxygenAvailability": 97
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 1,
+                    "oxygenAvailability": 64
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 83,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 64,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 85,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 51,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 17,
+                    "oxygenAvailability": 47
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 82,
+                    "oxygenAvailability": 45
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 10,
+                    "oxygenAvailability": 78
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 47,
+                    "oxygenAvailability": 63
+                }
+            ]
+        },
+        {
+            "name": "Anantapur General Hospital 6",
+            "city": "Anantapur",
+            "adminLogin": {
+                "username": "admin_anantapur6",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 14.706172953369466,
+                "lng": 77.60301660479482
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 22,
+                    "available": 5
+                },
+                "generalBeds": {
+                    "total": 77,
+                    "available": 23
+                },
+                "oxygenAvailability": 75,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 2,
+                        "available": 1
+                    },
+                    "neurologist": {
+                        "total": 4,
+                        "available": 1
+                    },
+                    "orthopedist": {
+                        "total": 3,
+                        "available": 1
+                    },
+                    "pediatrician": {
+                        "total": 1,
+                        "available": 1
+                    },
+                    "generalSurgeon": {
+                        "total": 2,
+                        "available": 1
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 10,
+                    "oxygenAvailability": 54
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 46,
+                    "oxygenAvailability": 70
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 45,
+                    "oxygenAvailability": 82
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 20,
+                    "oxygenAvailability": 47
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 66,
+                    "oxygenAvailability": 63
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 34,
+                    "oxygenAvailability": 68
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 37,
+                    "oxygenAvailability": 98
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 32,
+                    "oxygenAvailability": 67
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 46,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 11,
+                    "oxygenAvailability": 57
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 50,
+                    "oxygenAvailability": 94
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 52,
+                    "oxygenAvailability": 91
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 71,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 9,
+                    "oxygenAvailability": 41
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 48,
+                    "oxygenAvailability": 85
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 15,
+                    "oxygenAvailability": 72
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 13,
+                    "oxygenAvailability": 64
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 39,
+                    "oxygenAvailability": 54
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 66,
+                    "oxygenAvailability": 50
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 68,
+                    "oxygenAvailability": 100
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 23,
+                    "oxygenAvailability": 100
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 65,
+                    "oxygenAvailability": 88
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 73,
+                    "oxygenAvailability": 49
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 12,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 63,
+                    "oxygenAvailability": 46
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 23,
+                    "oxygenAvailability": 59
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 65,
+                    "oxygenAvailability": 55
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 36,
+                    "oxygenAvailability": 57
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 24,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 18,
+                    "oxygenAvailability": 60
+                }
+            ]
+        },
+        {
+            "name": "Chittoor General Hospital 1",
+            "city": "Chittoor",
+            "adminLogin": {
+                "username": "admin_chittoor1",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 13.217525667796103,
+                "lng": 79.1217176607655
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 27,
+                    "available": 5
+                },
+                "generalBeds": {
+                    "total": 142,
+                    "available": 80
+                },
+                "oxygenAvailability": 60,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 1,
+                        "available": 0
+                    },
+                    "neurologist": {
+                        "total": 4,
+                        "available": 2
+                    },
+                    "orthopedist": {
+                        "total": 4,
+                        "available": 3
+                    },
+                    "pediatrician": {
+                        "total": 4,
+                        "available": 4
+                    },
+                    "generalSurgeon": {
+                        "total": 1,
+                        "available": 0
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 27,
+                    "generalBedsAvailable": 98,
+                    "oxygenAvailability": 98
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 15,
+                    "oxygenAvailability": 81
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 29,
+                    "oxygenAvailability": 41
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 89,
+                    "oxygenAvailability": 99
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 27,
+                    "generalBedsAvailable": 43,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 24,
+                    "generalBedsAvailable": 81,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 57,
+                    "oxygenAvailability": 67
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 24,
+                    "oxygenAvailability": 92
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 134,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 22,
+                    "oxygenAvailability": 70
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 3,
+                    "oxygenAvailability": 99
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 38,
+                    "oxygenAvailability": 76
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 65,
+                    "oxygenAvailability": 64
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 26,
+                    "oxygenAvailability": 59
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 25,
+                    "generalBedsAvailable": 57,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 52,
+                    "oxygenAvailability": 58
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 132,
+                    "oxygenAvailability": 66
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 116,
+                    "oxygenAvailability": 78
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 131,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 100,
+                    "oxygenAvailability": 92
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 83,
+                    "oxygenAvailability": 81
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 137,
+                    "oxygenAvailability": 56
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 142,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 75,
+                    "oxygenAvailability": 75
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 118,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 72,
+                    "oxygenAvailability": 48
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 133,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 25,
+                    "generalBedsAvailable": 23,
+                    "oxygenAvailability": 65
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 79,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 41,
+                    "oxygenAvailability": 54
+                }
+            ]
+        },
+        {
+            "name": "Chittoor General Hospital 2",
+            "city": "Chittoor",
+            "adminLogin": {
+                "username": "admin_chittoor2",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 13.22026532633246,
+                "lng": 79.10485995210293
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 22,
+                    "available": 22
+                },
+                "generalBeds": {
+                    "total": 148,
+                    "available": 10
+                },
+                "oxygenAvailability": 100,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 1,
+                        "available": 1
+                    },
+                    "neurologist": {
+                        "total": 2,
+                        "available": 1
+                    },
+                    "orthopedist": {
+                        "total": 4,
+                        "available": 2
+                    },
+                    "pediatrician": {
+                        "total": 2,
+                        "available": 0
+                    },
+                    "generalSurgeon": {
+                        "total": 4,
+                        "available": 0
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 55,
+                    "oxygenAvailability": 45
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 36,
+                    "oxygenAvailability": 82
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 56,
+                    "oxygenAvailability": 55
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 106,
+                    "oxygenAvailability": 78
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 101,
+                    "oxygenAvailability": 57
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 13,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 54,
+                    "oxygenAvailability": 64
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 10,
+                    "oxygenAvailability": 76
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 111,
+                    "oxygenAvailability": 68
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 38,
+                    "oxygenAvailability": 92
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 92,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 113,
+                    "oxygenAvailability": 81
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 2,
+                    "oxygenAvailability": 80
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 71,
+                    "oxygenAvailability": 42
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 21,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 60,
+                    "oxygenAvailability": 63
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 49,
+                    "oxygenAvailability": 55
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 102,
+                    "oxygenAvailability": 90
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 56,
+                    "oxygenAvailability": 93
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 84,
+                    "oxygenAvailability": 65
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 30,
+                    "oxygenAvailability": 46
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 4,
+                    "oxygenAvailability": 62
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 110,
+                    "oxygenAvailability": 59
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 84,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 35,
+                    "oxygenAvailability": 76
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 96,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 100,
+                    "oxygenAvailability": 83
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 58,
+                    "oxygenAvailability": 53
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 60,
+                    "oxygenAvailability": 89
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 112,
+                    "oxygenAvailability": 53
+                }
+            ]
+        },
+        {
+            "name": "Chittoor General Hospital 3",
+            "city": "Chittoor",
+            "adminLogin": {
+                "username": "admin_chittoor3",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 13.213654496989195,
+                "lng": 79.0995494961443
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 28,
+                    "available": 27
+                },
+                "generalBeds": {
+                    "total": 97,
+                    "available": 7
+                },
+                "oxygenAvailability": 74,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 2,
+                        "available": 2
+                    },
+                    "neurologist": {
+                        "total": 4,
+                        "available": 4
+                    },
+                    "orthopedist": {
+                        "total": 1,
+                        "available": 0
+                    },
+                    "pediatrician": {
+                        "total": 3,
+                        "available": 1
+                    },
+                    "generalSurgeon": {
+                        "total": 2,
+                        "available": 0
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 39,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 5,
+                    "oxygenAvailability": 54
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 52,
+                    "oxygenAvailability": 64
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 90,
+                    "oxygenAvailability": 94
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 71,
+                    "oxygenAvailability": 47
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 84,
+                    "oxygenAvailability": 62
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 42,
+                    "oxygenAvailability": 90
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 5,
+                    "oxygenAvailability": 81
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 27,
+                    "oxygenAvailability": 66
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 9,
+                    "oxygenAvailability": 87
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 25,
+                    "generalBedsAvailable": 70,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 25,
+                    "generalBedsAvailable": 93,
+                    "oxygenAvailability": 53
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 56,
+                    "oxygenAvailability": 57
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 91,
+                    "oxygenAvailability": 61
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 75,
+                    "oxygenAvailability": 53
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 97,
+                    "oxygenAvailability": 50
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 33,
+                    "oxygenAvailability": 76
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 24,
+                    "generalBedsAvailable": 72,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 27,
+                    "generalBedsAvailable": 29,
+                    "oxygenAvailability": 50
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 26,
+                    "generalBedsAvailable": 68,
+                    "oxygenAvailability": 46
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 83,
+                    "oxygenAvailability": 55
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 10,
+                    "oxygenAvailability": 81
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 24,
+                    "generalBedsAvailable": 46,
+                    "oxygenAvailability": 72
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 5,
+                    "oxygenAvailability": 80
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 43,
+                    "oxygenAvailability": 66
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 74,
+                    "oxygenAvailability": 91
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 50,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 59,
+                    "oxygenAvailability": 42
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 18,
+                    "oxygenAvailability": 67
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 52,
+                    "oxygenAvailability": 97
+                }
+            ]
+        },
+        {
+            "name": "Chittoor General Hospital 4",
+            "city": "Chittoor",
+            "adminLogin": {
+                "username": "admin_chittoor4",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 13.210197932926654,
+                "lng": 79.09212811146925
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 21,
+                    "available": 17
+                },
+                "generalBeds": {
+                    "total": 114,
+                    "available": 47
+                },
+                "oxygenAvailability": 82,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 4,
+                        "available": 4
+                    },
+                    "neurologist": {
+                        "total": 3,
+                        "available": 1
+                    },
+                    "orthopedist": {
+                        "total": 2,
+                        "available": 2
+                    },
+                    "pediatrician": {
+                        "total": 1,
+                        "available": 0
+                    },
+                    "generalSurgeon": {
+                        "total": 4,
+                        "available": 2
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 2,
+                    "oxygenAvailability": 59
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 29,
+                    "oxygenAvailability": 60
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 71,
+                    "oxygenAvailability": 100
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 38,
+                    "oxygenAvailability": 68
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 81,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 44,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 83,
+                    "oxygenAvailability": 94
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 1,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 110,
+                    "oxygenAvailability": 58
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 62,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 4,
+                    "oxygenAvailability": 99
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 1,
+                    "oxygenAvailability": 49
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 17,
+                    "oxygenAvailability": 55
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 9,
+                    "oxygenAvailability": 47
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 88,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 60,
+                    "oxygenAvailability": 83
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 113,
+                    "oxygenAvailability": 47
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 42,
+                    "oxygenAvailability": 91
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 14,
+                    "oxygenAvailability": 67
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 110,
+                    "oxygenAvailability": 60
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 41,
+                    "oxygenAvailability": 76
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 98,
+                    "oxygenAvailability": 62
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 2,
+                    "oxygenAvailability": 60
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 107,
+                    "oxygenAvailability": 66
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 80,
+                    "oxygenAvailability": 90
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 103,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 30,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 39,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 103,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 74,
+                    "oxygenAvailability": 52
+                }
+            ]
+        },
+        {
+            "name": "Chittoor General Hospital 5",
+            "city": "Chittoor",
+            "adminLogin": {
+                "username": "admin_chittoor5",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 13.218468907231626,
+                "lng": 79.09588924285475
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 16,
+                    "available": 6
+                },
+                "generalBeds": {
+                    "total": 148,
+                    "available": 24
+                },
+                "oxygenAvailability": 54,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 3,
+                        "available": 2
+                    },
+                    "neurologist": {
+                        "total": 2,
+                        "available": 1
+                    },
+                    "orthopedist": {
+                        "total": 1,
+                        "available": 0
+                    },
+                    "pediatrician": {
+                        "total": 4,
+                        "available": 0
+                    },
+                    "generalSurgeon": {
+                        "total": 3,
+                        "available": 1
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 100,
+                    "oxygenAvailability": 56
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 27,
+                    "oxygenAvailability": 56
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 0,
+                    "oxygenAvailability": 56
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 124,
+                    "oxygenAvailability": 76
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 103,
+                    "oxygenAvailability": 85
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 133,
+                    "oxygenAvailability": 79
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 144,
+                    "oxygenAvailability": 89
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 131,
+                    "oxygenAvailability": 80
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 83,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 130,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 117,
+                    "oxygenAvailability": 49
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 15,
+                    "oxygenAvailability": 66
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 4,
+                    "oxygenAvailability": 93
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 59,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 145,
+                    "oxygenAvailability": 50
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 101,
+                    "oxygenAvailability": 49
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 11,
+                    "oxygenAvailability": 87
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 40,
+                    "oxygenAvailability": 62
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 92,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 107,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 109,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 94,
+                    "oxygenAvailability": 88
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 122,
+                    "oxygenAvailability": 99
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 144,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 70,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 17,
+                    "oxygenAvailability": 98
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 95,
+                    "oxygenAvailability": 87
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 15,
+                    "oxygenAvailability": 64
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 144,
+                    "oxygenAvailability": 96
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 90,
+                    "oxygenAvailability": 55
+                }
+            ]
+        },
+        {
+            "name": "Chittoor General Hospital 6",
+            "city": "Chittoor",
+            "adminLogin": {
+                "username": "admin_chittoor6",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 13.192864664598904,
+                "lng": 79.09895697599707
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 19,
+                    "available": 8
+                },
+                "generalBeds": {
+                    "total": 134,
+                    "available": 28
+                },
+                "oxygenAvailability": 90,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 1,
+                        "available": 1
+                    },
+                    "neurologist": {
+                        "total": 4,
+                        "available": 3
+                    },
+                    "orthopedist": {
+                        "total": 1,
+                        "available": 1
+                    },
+                    "pediatrician": {
+                        "total": 1,
+                        "available": 0
+                    },
+                    "generalSurgeon": {
+                        "total": 3,
+                        "available": 2
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 54,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 117,
+                    "oxygenAvailability": 49
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 18,
+                    "oxygenAvailability": 48
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 132,
+                    "oxygenAvailability": 88
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 123,
+                    "oxygenAvailability": 80
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 74,
+                    "oxygenAvailability": 89
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 76,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 47,
+                    "oxygenAvailability": 78
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 49,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 123,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 25,
+                    "oxygenAvailability": 67
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 54,
+                    "oxygenAvailability": 82
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 65,
+                    "oxygenAvailability": 65
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 101,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 48,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 10,
+                    "oxygenAvailability": 47
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 133,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 24,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 68,
+                    "oxygenAvailability": 99
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 32,
+                    "oxygenAvailability": 85
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 21,
+                    "oxygenAvailability": 72
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 103,
+                    "oxygenAvailability": 81
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 86,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 107,
+                    "oxygenAvailability": 84
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 60,
+                    "oxygenAvailability": 80
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 69,
+                    "oxygenAvailability": 69
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 121,
+                    "oxygenAvailability": 61
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 52,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 44,
+                    "oxygenAvailability": 42
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 116,
+                    "oxygenAvailability": 52
+                }
+            ]
+        },
+        {
+            "name": "Kadapa General Hospital 1",
+            "city": "Kadapa",
+            "adminLogin": {
+                "username": "admin_kadapa1",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 14.467885554072724,
+                "lng": 78.8341671267418
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 28,
+                    "available": 4
+                },
+                "generalBeds": {
+                    "total": 105,
+                    "available": 49
+                },
+                "oxygenAvailability": 54,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 2,
+                        "available": 1
+                    },
+                    "neurologist": {
+                        "total": 4,
+                        "available": 4
+                    },
+                    "orthopedist": {
+                        "total": 2,
+                        "available": 0
+                    },
+                    "pediatrician": {
+                        "total": 2,
+                        "available": 1
+                    },
+                    "generalSurgeon": {
+                        "total": 2,
+                        "available": 1
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 7,
+                    "oxygenAvailability": 69
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 40,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 100,
+                    "oxygenAvailability": 93
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 24,
+                    "generalBedsAvailable": 38,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 47,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 73,
+                    "oxygenAvailability": 72
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 23,
+                    "generalBedsAvailable": 33,
+                    "oxygenAvailability": 72
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 28,
+                    "generalBedsAvailable": 9,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 64,
+                    "oxygenAvailability": 76
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 96,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 52,
+                    "oxygenAvailability": 90
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 27,
+                    "generalBedsAvailable": 9,
+                    "oxygenAvailability": 70
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 60,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 25,
+                    "generalBedsAvailable": 54,
+                    "oxygenAvailability": 59
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 40,
+                    "oxygenAvailability": 66
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 95,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 2,
+                    "oxygenAvailability": 55
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 53,
+                    "oxygenAvailability": 56
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 62,
+                    "oxygenAvailability": 42
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 26,
+                    "generalBedsAvailable": 1,
+                    "oxygenAvailability": 99
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 27,
+                    "generalBedsAvailable": 0,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 47,
+                    "oxygenAvailability": 93
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 87,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 24,
+                    "generalBedsAvailable": 38,
+                    "oxygenAvailability": 97
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 3,
+                    "oxygenAvailability": 55
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 25,
+                    "generalBedsAvailable": 2,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 49,
+                    "oxygenAvailability": 84
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 73,
+                    "oxygenAvailability": 81
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 45,
+                    "oxygenAvailability": 65
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 10,
+                    "oxygenAvailability": 75
+                }
+            ]
+        },
+        {
+            "name": "Kadapa General Hospital 2",
+            "city": "Kadapa",
+            "adminLogin": {
+                "username": "admin_kadapa2",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 14.471344440856074,
+                "lng": 78.84445556137995
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 26,
+                    "available": 9
+                },
+                "generalBeds": {
+                    "total": 56,
+                    "available": 39
+                },
+                "oxygenAvailability": 53,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 3,
+                        "available": 3
+                    },
+                    "neurologist": {
+                        "total": 4,
+                        "available": 0
+                    },
+                    "orthopedist": {
+                        "total": 1,
+                        "available": 0
+                    },
+                    "pediatrician": {
+                        "total": 2,
+                        "available": 2
+                    },
+                    "generalSurgeon": {
+                        "total": 1,
+                        "available": 1
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 31,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 27,
+                    "oxygenAvailability": 64
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 16,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 26,
+                    "generalBedsAvailable": 24,
+                    "oxygenAvailability": 60
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 3,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 8,
+                    "oxygenAvailability": 94
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 24,
+                    "oxygenAvailability": 98
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 56,
+                    "oxygenAvailability": 82
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 10,
+                    "oxygenAvailability": 80
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 5,
+                    "oxygenAvailability": 41
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 22,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 24,
+                    "oxygenAvailability": 82
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 26,
+                    "generalBedsAvailable": 28,
+                    "oxygenAvailability": 54
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 28,
+                    "oxygenAvailability": 55
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 24,
+                    "generalBedsAvailable": 35,
+                    "oxygenAvailability": 96
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 44,
+                    "oxygenAvailability": 85
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 48,
+                    "oxygenAvailability": 91
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 24,
+                    "generalBedsAvailable": 50,
+                    "oxygenAvailability": 100
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 25,
+                    "generalBedsAvailable": 54,
+                    "oxygenAvailability": 84
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 48,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 54,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 9,
+                    "oxygenAvailability": 58
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 6,
+                    "oxygenAvailability": 50
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 29,
+                    "oxygenAvailability": 70
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 25,
+                    "generalBedsAvailable": 53,
+                    "oxygenAvailability": 88
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 53,
+                    "oxygenAvailability": 97
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 32,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 48,
+                    "oxygenAvailability": 68
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 14,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 30,
+                    "oxygenAvailability": 47
+                }
+            ]
+        },
+        {
+            "name": "Kadapa General Hospital 3",
+            "city": "Kadapa",
+            "adminLogin": {
+                "username": "admin_kadapa3",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 14.458504682941172,
+                "lng": 78.82983661672047
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 27,
+                    "available": 11
+                },
+                "generalBeds": {
+                    "total": 54,
+                    "available": 20
+                },
+                "oxygenAvailability": 78,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 1,
+                        "available": 0
+                    },
+                    "neurologist": {
+                        "total": 2,
+                        "available": 2
+                    },
+                    "orthopedist": {
+                        "total": 3,
+                        "available": 0
+                    },
+                    "pediatrician": {
+                        "total": 4,
+                        "available": 3
+                    },
+                    "generalSurgeon": {
+                        "total": 2,
+                        "available": 1
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 16,
+                    "oxygenAvailability": 98
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 39,
+                    "oxygenAvailability": 56
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 21,
+                    "oxygenAvailability": 99
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 26,
+                    "oxygenAvailability": 90
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 23,
+                    "generalBedsAvailable": 48,
+                    "oxygenAvailability": 72
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 42,
+                    "oxygenAvailability": 94
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 32,
+                    "oxygenAvailability": 92
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 42,
+                    "oxygenAvailability": 80
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 38,
+                    "oxygenAvailability": 94
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 25,
+                    "generalBedsAvailable": 20,
+                    "oxygenAvailability": 90
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 36,
+                    "oxygenAvailability": 41
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 38,
+                    "oxygenAvailability": 62
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 34,
+                    "oxygenAvailability": 75
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 24,
+                    "generalBedsAvailable": 49,
+                    "oxygenAvailability": 94
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 46,
+                    "oxygenAvailability": 54
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 9,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 24,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 34,
+                    "oxygenAvailability": 48
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 5,
+                    "oxygenAvailability": 42
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 27,
+                    "generalBedsAvailable": 1,
+                    "oxygenAvailability": 68
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 45,
+                    "oxygenAvailability": 58
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 0,
+                    "oxygenAvailability": 87
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 26,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 26,
+                    "oxygenAvailability": 70
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 46,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 26,
+                    "generalBedsAvailable": 52,
+                    "oxygenAvailability": 88
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 18,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 26,
+                    "oxygenAvailability": 88
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 12,
+                    "oxygenAvailability": 100
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 5,
+                    "oxygenAvailability": 48
+                }
+            ]
+        },
+        {
+            "name": "Kadapa General Hospital 4",
+            "city": "Kadapa",
+            "adminLogin": {
+                "username": "admin_kadapa4",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 14.474621127069003,
+                "lng": 78.83743086841041
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 27,
+                    "available": 11
+                },
+                "generalBeds": {
+                    "total": 138,
+                    "available": 83
+                },
+                "oxygenAvailability": 96,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 4,
+                        "available": 0
+                    },
+                    "neurologist": {
+                        "total": 4,
+                        "available": 4
+                    },
+                    "orthopedist": {
+                        "total": 4,
+                        "available": 3
+                    },
+                    "pediatrician": {
+                        "total": 2,
+                        "available": 0
+                    },
+                    "generalSurgeon": {
+                        "total": 2,
+                        "available": 2
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 132,
+                    "oxygenAvailability": 75
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 85,
+                    "oxygenAvailability": 66
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 24,
+                    "generalBedsAvailable": 121,
+                    "oxygenAvailability": 76
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 20,
+                    "oxygenAvailability": 67
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 41,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 115,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 115,
+                    "oxygenAvailability": 63
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 83,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 23,
+                    "generalBedsAvailable": 43,
+                    "oxygenAvailability": 92
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 45,
+                    "oxygenAvailability": 77
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 68,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 114,
+                    "oxygenAvailability": 87
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 25,
+                    "generalBedsAvailable": 36,
+                    "oxygenAvailability": 56
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 6,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 65,
+                    "oxygenAvailability": 66
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 3,
+                    "oxygenAvailability": 53
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 22,
+                    "generalBedsAvailable": 14,
+                    "oxygenAvailability": 85
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 26,
+                    "generalBedsAvailable": 115,
+                    "oxygenAvailability": 54
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 8,
+                    "oxygenAvailability": 57
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 96,
+                    "oxygenAvailability": 62
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 23,
+                    "oxygenAvailability": 42
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 60,
+                    "oxygenAvailability": 61
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 82,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 109,
+                    "oxygenAvailability": 65
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 112,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 24,
+                    "generalBedsAvailable": 130,
+                    "oxygenAvailability": 46
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 113,
+                    "oxygenAvailability": 50
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 23,
+                    "generalBedsAvailable": 73,
+                    "oxygenAvailability": 69
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 65,
+                    "oxygenAvailability": 84
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 24,
+                    "oxygenAvailability": 63
+                }
+            ]
+        },
+        {
+            "name": "Kadapa General Hospital 5",
+            "city": "Kadapa",
+            "adminLogin": {
+                "username": "admin_kadapa5",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 14.444899299264254,
+                "lng": 78.816420703407
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 19,
+                    "available": 17
+                },
+                "generalBeds": {
+                    "total": 122,
+                    "available": 76
+                },
+                "oxygenAvailability": 90,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 1,
+                        "available": 1
+                    },
+                    "neurologist": {
+                        "total": 4,
+                        "available": 1
+                    },
+                    "orthopedist": {
+                        "total": 1,
+                        "available": 1
+                    },
+                    "pediatrician": {
+                        "total": 2,
+                        "available": 1
+                    },
+                    "generalSurgeon": {
+                        "total": 2,
+                        "available": 1
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 25,
+                    "oxygenAvailability": 90
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 55,
+                    "oxygenAvailability": 57
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 38,
+                    "oxygenAvailability": 58
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 116,
+                    "oxygenAvailability": 82
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 107,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 75,
+                    "oxygenAvailability": 69
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 69,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 120,
+                    "oxygenAvailability": 59
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 96,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 65,
+                    "oxygenAvailability": 89
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 17,
+                    "oxygenAvailability": 62
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 17,
+                    "generalBedsAvailable": 57,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 75,
+                    "oxygenAvailability": 81
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 98,
+                    "oxygenAvailability": 66
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 32,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 13,
+                    "generalBedsAvailable": 40,
+                    "oxygenAvailability": 74
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 56,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 15,
+                    "generalBedsAvailable": 19,
+                    "oxygenAvailability": 50
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 38,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 73,
+                    "oxygenAvailability": 44
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 10,
+                    "generalBedsAvailable": 77,
+                    "oxygenAvailability": 87
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 24,
+                    "oxygenAvailability": 52
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 9,
+                    "oxygenAvailability": 68
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 75,
+                    "oxygenAvailability": 48
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 22,
+                    "oxygenAvailability": 53
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 65,
+                    "oxygenAvailability": 55
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 48,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 109,
+                    "oxygenAvailability": 66
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 12,
+                    "generalBedsAvailable": 79,
+                    "oxygenAvailability": 72
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 102,
+                    "oxygenAvailability": 92
+                }
+            ]
+        },
+        {
+            "name": "Kadapa General Hospital 6",
+            "city": "Kadapa",
+            "adminLogin": {
+                "username": "admin_kadapa6",
+                "password": "password123"
+            },
+            "location": {
+                "lat": 14.486900576447834,
+                "lng": 78.83931459531414
+            },
+            "features": {
+                "icuBeds": {
+                    "total": 24,
+                    "available": 24
+                },
+                "generalBeds": {
+                    "total": 130,
+                    "available": 116
+                },
+                "oxygenAvailability": 75,
+                "specialists": {
+                    "cardiologist": {
+                        "total": 3,
+                        "available": 1
+                    },
+                    "neurologist": {
+                        "total": 3,
+                        "available": 0
+                    },
+                    "orthopedist": {
+                        "total": 3,
+                        "available": 3
+                    },
+                    "pediatrician": {
+                        "total": 4,
+                        "available": 0
+                    },
+                    "generalSurgeon": {
+                        "total": 3,
+                        "available": 2
+                    }
+                }
+            },
+            "historicalData": [
+                {
+                    "date": "2026-02-22",
+                    "icuBedsAvailable": 24,
+                    "generalBedsAvailable": 57,
+                    "oxygenAvailability": 46
+                },
+                {
+                    "date": "2026-02-21",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 115,
+                    "oxygenAvailability": 90
+                },
+                {
+                    "date": "2026-02-20",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 108,
+                    "oxygenAvailability": 42
+                },
+                {
+                    "date": "2026-02-19",
+                    "icuBedsAvailable": 23,
+                    "generalBedsAvailable": 30,
+                    "oxygenAvailability": 85
+                },
+                {
+                    "date": "2026-02-18",
+                    "icuBedsAvailable": 9,
+                    "generalBedsAvailable": 7,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-02-17",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 75,
+                    "oxygenAvailability": 84
+                },
+                {
+                    "date": "2026-02-16",
+                    "icuBedsAvailable": 24,
+                    "generalBedsAvailable": 111,
+                    "oxygenAvailability": 49
+                },
+                {
+                    "date": "2026-02-15",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 1,
+                    "oxygenAvailability": 92
+                },
+                {
+                    "date": "2026-02-14",
+                    "icuBedsAvailable": 1,
+                    "generalBedsAvailable": 8,
+                    "oxygenAvailability": 67
+                },
+                {
+                    "date": "2026-02-13",
+                    "icuBedsAvailable": 19,
+                    "generalBedsAvailable": 5,
+                    "oxygenAvailability": 41
+                },
+                {
+                    "date": "2026-02-12",
+                    "icuBedsAvailable": 21,
+                    "generalBedsAvailable": 8,
+                    "oxygenAvailability": 62
+                },
+                {
+                    "date": "2026-02-11",
+                    "icuBedsAvailable": 8,
+                    "generalBedsAvailable": 39,
+                    "oxygenAvailability": 60
+                },
+                {
+                    "date": "2026-02-10",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 30,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-02-09",
+                    "icuBedsAvailable": 18,
+                    "generalBedsAvailable": 60,
+                    "oxygenAvailability": 86
+                },
+                {
+                    "date": "2026-02-08",
+                    "icuBedsAvailable": 3,
+                    "generalBedsAvailable": 54,
+                    "oxygenAvailability": 61
+                },
+                {
+                    "date": "2026-02-07",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 117,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-02-06",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 55,
+                    "oxygenAvailability": 79
+                },
+                {
+                    "date": "2026-02-05",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 72,
+                    "oxygenAvailability": 73
+                },
+                {
+                    "date": "2026-02-04",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 125,
+                    "oxygenAvailability": 41
+                },
+                {
+                    "date": "2026-02-03",
+                    "icuBedsAvailable": 0,
+                    "generalBedsAvailable": 108,
+                    "oxygenAvailability": 53
+                },
+                {
+                    "date": "2026-02-02",
+                    "icuBedsAvailable": 7,
+                    "generalBedsAvailable": 5,
+                    "oxygenAvailability": 70
+                },
+                {
+                    "date": "2026-02-01",
+                    "icuBedsAvailable": 20,
+                    "generalBedsAvailable": 53,
+                    "oxygenAvailability": 43
+                },
+                {
+                    "date": "2026-01-31",
+                    "icuBedsAvailable": 6,
+                    "generalBedsAvailable": 83,
+                    "oxygenAvailability": 64
+                },
+                {
+                    "date": "2026-01-30",
+                    "icuBedsAvailable": 5,
+                    "generalBedsAvailable": 41,
+                    "oxygenAvailability": 95
+                },
+                {
+                    "date": "2026-01-29",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 44,
+                    "oxygenAvailability": 40
+                },
+                {
+                    "date": "2026-01-28",
+                    "icuBedsAvailable": 4,
+                    "generalBedsAvailable": 79,
+                    "oxygenAvailability": 93
+                },
+                {
+                    "date": "2026-01-27",
+                    "icuBedsAvailable": 16,
+                    "generalBedsAvailable": 97,
+                    "oxygenAvailability": 51
+                },
+                {
+                    "date": "2026-01-26",
+                    "icuBedsAvailable": 2,
+                    "generalBedsAvailable": 41,
+                    "oxygenAvailability": 71
+                },
+                {
+                    "date": "2026-01-25",
+                    "icuBedsAvailable": 11,
+                    "generalBedsAvailable": 68,
+                    "oxygenAvailability": 65
+                },
+                {
+                    "date": "2026-01-24",
+                    "icuBedsAvailable": 14,
+                    "generalBedsAvailable": 101,
+                    "oxygenAvailability": 68
+                }
+            ]
+        }
+    ]
+}
