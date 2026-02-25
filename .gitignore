@@ -1,4 +1,9 @@
-frontend/
+
+backend/
+err.txt/
+frontend/err.txt
+frontend/pakage
+dist/
 node_modules/
 # Python cache
 __pycache__/
