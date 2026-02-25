@@ -133,3 +133,22 @@ flowchart TB
     Route --> Traffic
     Traffic --> Arrival
 ```
+## 🛠 Tech Stack
+
+### Frontend
+- **React.js** – UI development  
+- **React Router** – Page navigation  
+- **Leaflet.js** – Map visualization  
+- **Socket.io Client** – Real-time updates  
+
+### Backend
+- **Node.js** – Runtime environment  
+- **Express.js** – REST API server  
+- **MongoDB** – Database  
+- **Mongoose** – Data modeling  
+- **Socket.io** – Real-time communication  
+
+### AI & Optimization
+- **Random Forest (ML Model)** – Hospital readiness prediction  
+- **Rule-Based Ranking Engine** – Severity & distance filtering  
+- **OSRM** – Shortest path routing  
