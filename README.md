@@ -152,3 +152,20 @@ flowchart TB
 - **Random Forest (ML Model)** – Hospital readiness prediction  
 - **Rule-Based Ranking Engine** – Severity & distance filtering  
 - **OSRM** – Shortest path routing  
+
+## 📋 Requirements
+
+### System Requirements
+- Node.js (v18+ recommended)
+- npm or yarn
+- MongoDB (Local or MongoDB Atlas)
+- Python 3.x (for Random Forest model)
+- Modern Web Browser (Chrome / Edge / Firefox)
+
+## ✅ Conclusion
+
+DeepCare transforms emergency response by combining real-time hospital readiness, patient severity analysis, and intelligent routing.  
+Instead of choosing the nearest hospital, it selects the most prepared one to maximize survival chances.  
+By integrating AI-based scoring, slot reservation, and dynamic routing, the system ensures faster, safer, and resource-aware emergency care.
+
+- 
